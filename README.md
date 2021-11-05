@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushikudupa
 - 👀 I’m interested in using data to inform decisions.
-- 🌱 I’m currently learning explainable models.
+- 🌱 I’m currently learning to write production-ready code.
 - 💞️ I’m looking to collaborate on implementing data science projects and teaching Statistics.
 - 📫 How to reach me on kaushikudupa@gmail.com, k.udupa.benegal@leidenuniv.nl
 
