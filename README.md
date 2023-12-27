@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushikudupa
-- 👀 I’m interested in using data to inform decisions.
-- 🌱 I’m currently learning to write production-ready code.
+- 🌱 I’m currently working as a Senior Business Data Analyst.
+- 👀 I’m working on developing my skills to transition from a Data Analyst to a Data Scientist.
 - 📫 Reach me on kaushikudupa@gmail.com
 
 <!---
